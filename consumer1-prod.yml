@@ -1,1 +1,2 @@
-11
+my-config:
+  appName: my-app-prod
